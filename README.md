@@ -20,7 +20,7 @@
 - 🤖 Focused on **Applied Artificial Intelligence**  
 - 📊 Working with **Machine Learning & Deep Learning**  
 - ⚙ Deploying AI models using FastAPI  
-- ☁ Exploring Cloud & MLOps fundamentals  
+- ☁ Exploring Cloud & MLOps  
 - 🧠 Learning by building real-world projects  
 
 ---
@@ -35,7 +35,7 @@
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JahidHassan29&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=JahidHassan29&theme=dark&format=png)
 
 ---
 
@@ -52,8 +52,8 @@
 - AI-powered application development  
 - Deep learning experimentation  
 - API-based ML deployment  
-- Automation & backend services  
-- Portfolio project building  
+- Automation projects  
+- Portfolio building  
 
 ---
 
@@ -80,3 +80,13 @@
   </a>
 
   <a href="https://github.com/JahidHassan29">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+
+</p>
+
+---
+
+<p align="center">
+✨ Build • Learn • Improve • Repeat ✨
+</p>
