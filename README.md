@@ -35,9 +35,7 @@
 
 ## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JahidHassan29&theme=dark&date_format=j%20M%5B%20Y%5D" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JahidHassan29&theme=dark)
 
 ---
 
@@ -77,18 +75,8 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/jillugu-hassan59/">
+  <a href="https://www.linkedin.com/in/jahid-hassan59/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
 
   <a href="https://github.com/JahidHassan29">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-
-</p>
-
----
-
-<p align="center">
-✨ Build • Learn • Improve • Repeat ✨
-</p>
