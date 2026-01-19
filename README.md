@@ -10,6 +10,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JahidHassan29&label=Profile+Views&color=blueviolet&style=flat" />
+
+  <a href="https://github.com/JahidHassan29?tab=stars">
+    <img src="https://img.shields.io/badge/⭐%20GitHub-Stars-yellow?style=flat" />
+  </a>
 </p>
 
 ---
