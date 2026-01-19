@@ -10,10 +10,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JahidHassan29&label=Profile+Views&color=blueviolet&style=flat" />
-
-  <a href="https://github.com/JahidHassan29?tab=stars">
-    <img src="https://img.shields.io/badge/⭐%20GitHub-Stars-yellow?style=flat" />
-  </a>
 </p>
 
 ---
@@ -37,13 +33,11 @@
 
 ---
 
-## 🎯 Current Focus
+## 🔥 Contribution Streak
 
-- AI-powered application development  
-- Deep learning experimentation  
-- API-based ML deployment  
-- Automation & backend services  
-- Portfolio project building  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JahidHassan29&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
@@ -52,6 +46,16 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JahidHassan29&theme=react-dark&hide_border=true" />
 </p>
+
+---
+
+## 🎯 Current Focus
+
+- AI-powered application development  
+- Deep learning experimentation  
+- API-based ML deployment  
+- Automation & backend services  
+- Portfolio project building  
 
 ---
 
