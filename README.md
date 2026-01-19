@@ -33,12 +33,6 @@
 
 ---
 
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=JahidHassan29&theme=dark&format=png)
-
----
-
 ## 📊 Contribution Activity
 
 <p align="center">
