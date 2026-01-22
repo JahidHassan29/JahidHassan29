@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jahid Hassan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;Machine+Learning+Enthusiast;FastAPI+Backend+Developer;Building+Real-World+AI+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;Machine+Learning+Enthusiast;FastAPI+Backend+Developer;LangChain+Developer;Building+Real-World+AI+Projects" />
 </p>
 
 <p align="center">
@@ -14,21 +14,26 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🎓 Computer Science & Engineering Student  
 - 🤖 Focused on **Applied Artificial Intelligence**  
 - 📊 Working with **Machine Learning & Deep Learning**  
+- 🧠 Building **LLM-powered applications using LangChain**  
 - ⚙ Deploying AI models using FastAPI  
 - ☁ Exploring Cloud & MLOps  
-- 🧠 Learning by building real-world projects  
+- 💡 Learning by building real-world projects  
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,sklearn,git,github,linux,docker,postgresql,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,sklearn,git,github,linux,docker,postgresql,vscode,openai" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge&logo=chainlink&logoColor=white" />
 </p>
 
 ---
@@ -43,11 +48,11 @@
 
 ## 🎯 Current Focus
 
-- AI-powered application development  
+- LLM-powered AI applications (LangChain)  
 - Deep learning experimentation  
-- API-based ML deployment  
-- Automation projects  
-- Portfolio building  
+- FastAPI-based AI backend systems  
+- Automation tools  
+- Building production-ready AI projects  
 
 ---
 
@@ -55,9 +60,9 @@
 
 - AI / ML Internship  
 - Junior AI Engineer Role  
+- LLM / LangChain Projects  
 - Research Collaboration  
-- Startup Projects  
-- Open Source Contribution  
+- Startup & Open Source Contribution  
 
 ---
 
